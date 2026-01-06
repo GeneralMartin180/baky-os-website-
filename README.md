@@ -2,6 +2,8 @@ Autorské práva Baky OS a aplikácií
 
 Patrí Baky OS a súvisiace aplikácie:
 
+Baky Search 
+
 BakyMusic
 
 BakyAI
