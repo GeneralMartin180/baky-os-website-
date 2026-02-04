@@ -41,9 +41,6 @@ Všetky názvy a logá BakyOS™, BakyChat™, BakyAI™, BakyMusic™, BakySear
 Všetky aplikácie vyvíjané pod značkou BakyOS™ sú navrhnuté s dôrazom na súkromie a bezpečnosť používateľov, pričom žiadne osobné údaje nie sú zdieľané alebo predávané tretím stranám.
 
 5. Kontaktné informácie autora
-
-Email: mpetrinec1@gmail.com
-
 Instagram: https://www.instagram.com/baky_os/
 
 6. Vyhlásenie
