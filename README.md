@@ -1,54 +1,73 @@
 Vyhlásenie o autorských právach a ochrane duševného vlastníctva – BakyOS™
 
-Dátum Aktualizovania: 4. február 2026
-Autor a držiteľ práv: Martin Petrinec
+Dátum aktualizovania: 4. február 2026  
+Autor a držiteľ práv: Martin Petrinec  
 Miesto: Rimavská Sobota, Slovenská republika
 
-1. Predmet ochrany
+# 1. Predmet ochrany
 
-Týmto vyhlasujem, že všetky produkty, projekty, aplikácie a obsah pod značkou BakyOS™, vrátane, ale nie výlučne:
+Týmto vyhlasujem, že všetky produkty, projekty, aplikácie, platformy, médiá a obsah pod značkou BakyOS™, vrátane, ale nie výlučne:
 
-BakyChat™ – sociálna sieť pre kreatívne komunity
+- BakyOS™ – experimentálny operačný systém a technologický ekosystém
+- BakyChat™ – sociálna sieť pre kreatívne komunity
+- BakyAI™ – digitálny inteligentný systém pre tvorbu a analýzu
+- BakyMusic™ – hudobná platforma s komunitným zameraním
+- BakySearch™ – vyhľadávací a webový systém
+- BakyBrowser™ – internetový prehliadač a webové technológie
+- BakyNews™ – spravodajská a mediálna platforma
+- RadioRS™ / Radio RS™ – online rádio, podcastová a mediálna značka
 
-BakyAI™ – digitálny inteligentný mozog pre tvorbu a analýzu
+sú mojím originálnym výtvorom a spadajú pod ochranu autorských práv podľa zákona č. 185/2015 Z. z. o autorskom práve a právach súvisiacich s autorským právom.
 
-BakyMusic™ – hudobná platforma s komunitným zameraním
+# 2. Rozsah práv
 
-BakySearch™ – rýchly a bezpečný prehliadač
+Ja, Martin Petrinec, ako autor a držiteľ práv, si vyhradzujem výlučné právo:
 
-sú mojím výtvorom a spadajú pod autorské práva podľa zákona č. 185/2015 Z. z. o autorskom práve a právach súvisiacich s autorským právom.
+- reprodukovať, šíriť a zobrazovať všetky vyššie uvedené produkty a obsah,
+- meniť, upravovať alebo adaptovať obsah podľa vlastného uváženia,
+- udeľovať alebo zamietať licencie tretím stranám,
+- zakázať akékoľvek neautorizované použitie, kopírovanie alebo distribúciu,
+- chrániť vizuálnu identitu, názvy projektov, dizajn, grafiku, zdrojový kód, zvuky, audio identitu a databázy.
 
-2. Rozsah práv
+Akékoľvek neautorizované použitie bude považované za porušenie autorských práv a môže byť riešené podľa platných zákonov Slovenskej republiky a medzinárodných dohôd o ochrane duševného vlastníctva.
 
-Ja, Martin Petrinec, ako autor a majiteľ práv, si vyhradzujem výlučné právo:
+# 3. Značky a logá
 
-reprodukovať, šíriť a zobrazovať všetky vyššie uvedené produkty a obsah,
+Všetky názvy, logá, symboly a vizuálne identity:
 
-meniť, upravovať alebo adaptovať obsah podľa vlastného uváženia,
+- BakyOS™
+- BakyChat™
+- BakyAI™
+- BakyMusic™
+- BakySearch™
+- BakyBrowser™
+- BakyNews™
+- RadioRS™ / Radio RS™
 
-udeliť alebo zamietnuť licencie tretím stranám,
+sú mojou výlučnou značkou a duševným vlastníctvom.
 
-zakázať akékoľvek neautorizované použitie, kopírovanie alebo distribúciu.
+Ich kopírovanie, napodobňovanie, úprava alebo používanie bez môjho výslovného súhlasu je zakázané.
 
-Akékoľvek neautorizované použitie bude považované za porušenie autorských práv a bude riešené v súlade s platnými zákonmi SR a medzinárodnými dohodami o autorských právach.
+# 4. Ochrana údajov a bezpečnosť
 
-3. Značky a logá
+Všetky aplikácie a služby vyvíjané pod značkou BakyOS™ sú navrhované s dôrazom na bezpečnosť, súkromie používateľov a technologickú nezávislosť.
 
-Všetky názvy a logá BakyOS™, BakyChat™, BakyAI™, BakyMusic™, BakySearch™ sú mojou výlučnou značkou a sú chránené autorským právom a obchodnou známkou. Ich použitie bez výslovného súhlasu je zakázané.
+Osobné údaje používateľov nie sú úmyselne predávané alebo poskytované tretím stranám bez súhlasu používateľa, pokiaľ to nevyžaduje zákon.
 
-4. Ochrana údajov a bezpečnosť
+# 5. Kontaktné informácie autora
 
-Všetky aplikácie vyvíjané pod značkou BakyOS™ sú navrhnuté s dôrazom na súkromie a bezpečnosť používateľov, pričom žiadne osobné údaje nie sú zdieľané alebo predávané tretím stranám.
+Instagram: 
+:contentReference[oaicite:0]{index=0}
 
-5. Kontaktné informácie autora
-Instagram: https://www.instagram.com/baky_os/
+# 6. Vyhlásenie
 
-6. Vyhlásenie
+Týmto potvrdzujem, že všetky vyššie uvedené produkty, technológie, názvy, médiá, platformy a obsah sú mojím duševným vlastníctvom.
 
-Týmto potvrdzujem, že všetky vyššie uvedené produkty a obsah sú mojím duševným vlastníctvom. Toto vyhlásenie slúži ako doklad o autorstve a ochrane autorských práv a je účinné od dátumu jeho vyhotovenia.
+Toto vyhlásenie slúži ako verejný doklad autorstva a ochrany autorských práv a nadobúda účinnosť odo dňa jeho vyhotovenia.
 
 Podpis autora:
 
 Martin Petrinec
 
-Dátum: 4. február 2026
+Dátum:
+4. február 2026
