@@ -56,8 +56,7 @@ Osobné údaje používateľov nie sú úmyselne predávané alebo poskytované 
 
 # 5. Kontaktné informácie autora
 
-Instagram: 
-:contentReference[oaicite:0]{index=0}
+Instagram: https://www.instagram.com/martix_be/
 
 # 6. Vyhlásenie
 
